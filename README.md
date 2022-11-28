@@ -1,0 +1,2 @@
+# NEXT-WORD-PREDICTION-WITH-NATURAL-LANGUAGE-PROCESSING-AND-DEEP-LEARNING
+Here I Built Next Word Predictive Model, The model will consider the last word of a particular sentence and predict the next possible word. I used the methods of Natural Language Processing, Language Modeling, and Deep Learning . I  built The deep learning model using an Artifical Neural Network Called Long Short Term Memory (LSTM) 
